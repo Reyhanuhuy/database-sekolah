@@ -1,0 +1,2 @@
+DELETE FROM nilai
+WHERE id = 30;
